@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CompulsiveProgramator
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently learning videogame creation
 - 💞️ I’m looking to collaborate on team projects 
 - 📫 How to reach me: adriangonzalezalmansa243@gmail.com
 
